@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $("#btn1").click(function(){
-        $("p").append(" <b> <? echo 'oman' ; ?> </b>aaa");
+        $("p").append(" <b> <? echo 'oman' ; ?> </b>aaahub");
     });
 
     $("#btn2").click(function(){
